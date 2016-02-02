@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aweberry Marketing]]></title>
         <description><![CDATA[Aweberry Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aweberry-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 18:33:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 18:33:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aweberry-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e4e2997-cada-488b-8b5c-2ba4bb7e28e5.jpg">]]></description>
+            <link>https://thegrid.ai/aweberry-marketing/8f57d077-8700-4270-a8e3-b9a88dd18843/index.html</link>
+            <guid isPermaLink="false">8f57d077-8700-4270-a8e3-b9a88dd18843</guid>
+            <pubDate>Tue, 02 Feb 2016 18:32:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/453448e6-42df-4ce4-83dd-0056b42e9731.jpg">]]></description>
-            <link>undefineda17f614c-5813-47da-8637-a63cf68e5b96/index.html</link>
+            <link>https://thegrid.ai/aweberry-marketing/a17f614c-5813-47da-8637-a63cf68e5b96/index.html</link>
             <guid isPermaLink="false">a17f614c-5813-47da-8637-a63cf68e5b96</guid>
             <pubDate>Tue, 02 Feb 2016 18:32:44 GMT</pubDate>
         </item>
