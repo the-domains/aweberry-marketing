@@ -1,0 +1,28 @@
+name: Aweberry Marketing
+favicon: null
+layout_spectrum: 0.9733768310397863
+typography_spectrum: 0.5653894387651235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5316082159988582
+  lightness: 0.10183813376352191
+  saturation: 0.018628794001415372
+  rhythmicContrast: 0.19350122287869453
+purpose: []
